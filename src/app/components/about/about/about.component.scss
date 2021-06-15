@@ -1,0 +1,32 @@
+section{
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h3{
+    margin: 0px;
+    padding:0px;
+    font-size: 22px;
+    font-weight: bold;    
+    color:#64ffda;
+    font-weight: bold;
+    border-top: steelblue;
+    border-top-style: solid;
+    border-top-width: 1px;
+
+}
+ul{
+    width: fit-content;
+    column-count: 2;
+    column-gap: 0px;
+    column-width: 100px;
+    color: #b5bfd1;
+    font-size: 18px;
+    line-height: 150%;
+}
+p{
+    color: #b5bfd1;
+    font-size: 18px;
+    line-height: 120%;
+}
